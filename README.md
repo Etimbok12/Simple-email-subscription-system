@@ -1,6 +1,6 @@
 # Simple-email-subscription-system
 * Name : Samson-Nse Etimbok
-* Matric no : 24/18864
+* Matric no : 25/18864
 * Department : Software engineering
 
 # 1. Requirement Analysis
